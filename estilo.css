@@ -18,7 +18,7 @@ body {
     color: white;
     font-size: 18px;
     text-align: center;
-    border-radius: 8px;
+    border-radius: 50px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -39,5 +39,77 @@ body {
 }
 
 #cor5 {
-    background-color: #BA55D3;
+    background-color: #5F9EA0;
+}
+
+
+#cor6 {
+    background-color: #7FFFD4;
+}
+
+
+#cor7 {
+    background-color: #808000;
+}
+
+
+#cor8 {
+    background-color: #B8860B;
+}
+
+
+#cor9 {
+    background-color: #A0522D;
+}
+
+
+#cor10 {
+    background-color: #D2691E;
+}
+
+
+#cor11 {
+    background-color: #DEB887;
+}
+
+
+#cor12 {
+    background-color: #7B68EE;
+}
+
+
+#cor13 {
+    background-color: #4B0082;
+}
+
+
+#cor14 {
+    background-color: #9932CC;
+}
+
+
+#cor15 {
+    background-color: #A020F0;
+}
+
+
+#cor16 {
+    background-color: #FF00FF;
+}
+
+
+#cor17 {
+    background-color: #DA70D6;
+}
+
+#cor18 {
+    background-color: #FF1493;
+}
+
+#cor19 {
+    background-color: #F08080;
+}
+
+#cor20 {
+    background-color: #DC143C;
 }
